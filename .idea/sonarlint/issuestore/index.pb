@@ -19,3 +19,7 @@ I
 src/chess/ChessMatch.java,a\f\afffe56e7c2d80517c9aec9f344453fe3e900f7c
 Q
 !src/boardgame/BoardException.java,c\d\cd20c15b434e2bd9d33b559985a9b393401fdb2d
+M
+src/chess/ChessException.java,2\1\21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
+L
+src/chess/ChessPosition.java,9\0\90a7f058c20369970d1f5d1c161ad421280924ef
