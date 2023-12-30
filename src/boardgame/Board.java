@@ -71,7 +71,7 @@ public class Board {
         return row >= 0 && row < rows && column >= 0 && column < columns;
     }
 
-    private boolean positionExist(Position position) {
+    public boolean positionExist(Position position) {
         return positionExist(position.getRow(), position.getColumn());
     }
 
